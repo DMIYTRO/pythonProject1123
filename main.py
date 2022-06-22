@@ -8,7 +8,7 @@ werfwer
 
 def send_email(messege):
     sender = "1kuperster@gmail.com"
-    password = os.getenv("DT2Ma5s7m4iF")
+    password = os.getenv()
 
     server = smtplib.SMTP("smtp.gmail.com", 587)
     server.starttls()
