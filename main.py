@@ -1,7 +1,8 @@
 import smtplib
 import os
 new
-
+new
+new
 
 def send_email(messege):
     sender = "1kuperster@gmail.com"
