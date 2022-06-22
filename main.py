@@ -1,9 +1,6 @@
 import smtplib
 import os
-new
-jhjh
-ferfgewrg
-werfwer
+
 
 
 def send_email(messege):
